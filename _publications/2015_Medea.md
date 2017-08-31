@@ -1,7 +1,7 @@
 ---
 title: "A Narratological Investigation of Ovid's Medea: _Met._ 7.1-424"
 collection: publications
-permalink: /publication/2015-Medea
+permalink: /publication/2015_Medea.md
 excerpt: 'The Medea of book 7 of Ovid’s _Metamorphoses_ undergoes three distinct journeys...'
 date: 2015
 venue: '_Classical World_'
