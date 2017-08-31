@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Libatique"
-  avatar           : "/images/13119977_10206254039333259_7893052557653489833_o_2.jpg"
+  avatar           : "https://thedancinggrad.github.io/images/13119977_10206254039333259_7893052557653489833_o_2.jpg"
   bio              : "Ph.D. Candidate in Classical Studies at Boston University"
   location         : "Boston, MA"
   employer         :
