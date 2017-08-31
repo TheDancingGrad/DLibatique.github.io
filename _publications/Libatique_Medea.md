@@ -1,7 +1,7 @@
 ---
 title: "A Narratological Investigation of Ovid's Medea: Met. 7.1-424"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Libatique_Medea.md
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2015
 venue: 'Classical World'
