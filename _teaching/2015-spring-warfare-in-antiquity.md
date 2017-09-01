@@ -1,10 +1,10 @@
 ---
-title: "Greek History"
+title: "Warfare in Antiquity"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2013-fall-greek-history
+permalink: /teaching/2015-spring-warfare-in-antiquity
 venue: "Boston University, Classical Studies"
-date: 2013-09-01
+date: 2015-01-01
 location: "Boston, USA"
 ---
 
