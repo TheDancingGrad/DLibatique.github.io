@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. in Classical Studies, Boston University, 2018 (expected)
+* M.A. in Classical Studies, Boston University, 2015
+* M.A. in Humanities and Social Thought, New York University, 2012
+* B.A. in Classics and Theatre, College of the Holy Cross, 2010
 
 Work experience
 ======
