@@ -52,5 +52,5 @@ Grants, Awards, Fellowships, and Memberships
 
 Service and leadership
 ======
-* Session leader at Massachusetts Junior Classical League Classics Day, 2017, 2016, 2013
-* Co-organizer, "Love and Friendship in Greek and Roman Antiquity," Graduate Student Conference, Boston University, 2015
+* (2017, 2016, 2013) Session leader at Massachusetts Junior Classical League Classics Day
+* (2015) Co-organizer, "Love and Friendship in Greek and Roman Antiquity," Graduate Student Conference, Boston University
