@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome!"
-excerpt: "About me"
+title: "Welcome to my personal website!"
+excerpt: "This is a website for Daniel Libatique, a Ph.D. Candidate in Classical Studies at Boston University."
 author_profile: true
 redirect_from: 
   - /about/
