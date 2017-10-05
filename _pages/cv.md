@@ -11,7 +11,11 @@ redirect_from:
 
 Research Interests
 ======
+<<<<<<< HEAD
 Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; narratology; Digital Humanities (Natural Language Processing, machine learning, text encoding); queer theory; performance and reception; metrics; Statius
+=======
+Sophocles and Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; narratology; Digital Humanities (machine learning, text encoding); queer theory; performance and reception; metrics; Statius
+>>>>>>> 90239918c84eae59de832fe5f2efba3db2356322
 
 Education
 ======
