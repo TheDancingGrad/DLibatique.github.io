@@ -31,7 +31,7 @@ to take Achilles' prize, Briseis, for his own.
 // Achilles' impulse to rush upon Agamemnon and even to
 slay him is stayed by the goddess Athene.
 
-    ὣς φάτο· Πηλεΐωνι δ' ἄχος γένετ', ἐν δέ οῖ ἦτορ
+    ὣς φάτο· Πηλεΐωνι δ' ἄχος γένετ', ἐν δέ οἱ ἦτορ
 στήθεσσιν λασίοισι διάνδιχα μερμήριξεν,
 ἢ ὅ γε φάσγανον ὀξὺ ἐρυσσάμενος παρὰ μηροῦ (190)
 τοὺς μὲν ἀναστήσειεν ὃ δ' Ἀτρεΐδην ἐναρίζοι,
