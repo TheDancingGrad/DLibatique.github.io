@@ -6,10 +6,7 @@
 ἄστυ τε καὶ Τρώων ἀλόχους καὶ νήπια τέκνα." (310)
     ὣς ἔφατ' εὐχομένη· ἀνένευε δὲ Παλλὰς Ἀθήνη.
 
-// Hector comes to the palace of Paris and Helen. Finding
-Paris, he rebukes him for retiring form the battle.
-Paris seeks to excuse himself, and prepares to arm
-forthwith.
+// Hector comes to the palace of Paris and Helen. Finding Paris, he rebukes him for retiring form the battle. Paris seeks to excuse himself, and prepares to arm forthwith.
 
     ὣς αἲ μέν ῥ' εὔχοντο Διὸς κούρῃ μεγάλοιο·
 Ἕκτωρ δὲ πρὸς δώματ' Ἀλεξάνδροιο βεβήκει
@@ -21,7 +18,7 @@ forthwith.
 ἔγχος ἔχ' ἑνδεκάπηχυ· πάροιθε δὲ λάμπετο δουρὸς
 αἰχμὴ χαλκείη, περὶ δὲ χρύσεος θέε πόρκης. (320)
 τὸν δ' εὗρ' ἐν θαλάμῳ περὶ κάλλιμα τεύχε' ἕποντα,
-ἀσπίδα κα”ὶ θώρηκα, καὶ ἀγκύλα τόξ' ἁφάοντα·
+ἀσπίδα καὶ θώρηκα, καὶ ἀγκύλα τόξ' ἁφάοντα·
 Ἀργεΐη δ' Ἑλένη μετ' ἄρα δμῳῇσι γυναιξὶν
 ἧστο καὶ ἀμφιπόλοισι περικλυτὰ ἔργα κέλευεν.
 τὸν δ' Ἕκτωρ νείκεσσεν ἰδὼν αἰσχροῖς ἐπέεσσιν· (325)
@@ -37,15 +34,13 @@ forthwith.
 οὔ τοι ἐγὼ Τρώων τόσσον χόλῳ οὐδὲ νεμέσσι (335)
 ἥμην ἐν θαλάμῳ, ἔθελον δ' ἄχεϊ προτραπέσθαι.
 νῦν δέ με παρειποῦσ' ἄλοχος μαλακοῖς ἐπέεσσιν
-ὥρμησ' ές πόλεμον, δοκέει δέ μοι ὧδε καὶ αὐτῷ
+ὥρμησ' ἐς πόλεμον, δοκέει δέ μοι ὧδε καὶ αὐτῷ
 λώιον ἔσσεσθαι· νίκη δ' ἐπαμείβεται ἄνδρας.
 ἀλλ' ἄγε νῦν ἐπίμεινον, ἀρήια τεύχεα δύω (340)
 ἢ ἴθ', ἐγὼ δὲ μέτειμι· κιχήσεσθαι δέ σ' ὄίω."
     ὣς φάτο· τὸν δ' οὔ τι προσέφη κορυθαίολος Ἕκτωρ.
 
-// Helen speaks to Hector with words of repentance. He can
-not listen long, however, but must week his own wife
-to say farewell.
+// Helen speaks to Hector with words of repentance. He can not listen long, however, but must week his own wife to say farewell.
 
 τὸν δ' Ἑλένη μύθοισι προσηύδαε μειλιχίοισιν·
     "δᾶερ ἐμεῖο, κυνὸς κακομηχάνοο κρυοέσσης,
