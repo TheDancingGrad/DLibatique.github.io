@@ -1,5 +1,4 @@
-// Achilles seeks consolation in his prayer to his goddess
-mother.
+// Achilles seeks consolation in his prayer to his goddess mother.
 
             αὐτὰρ Ἀχιλλεὺς
 δακρύσας ἑτάρων ἄφαρ ἕζετο νόσφι λιασθεὶς
@@ -16,10 +15,9 @@ mother.
 καί ῥα πάροιθ' αὐτοῖο καθέζετο δάκρυ χέοντος, (360)
 χειρί τέ μιν κατέρεξεν ἔπος τ' ἔφατ' ἔκ τ' ὀνόμαζεν·
     "τέκνον, τί κλαίεις; τί δέ σε φρένας ἵκετο πένθος;
-ἐξαύδα, μὴ κεῦθε νόῳ, ἵνα εἴδομεν ἅμφω."
+ἐξαύδα, μὴ κεῦθε νόῳ, ἵνα εἴδομεν ἄμφω."
 
-// He tells his wrongs, and implores her to persuade Zeus to
-bring disaster on Agamemnon and his soldiers.
+// He tells his wrongs, and implores her to persuade Zeus to bring disaster on Agamemnon and his soldiers.
 
     τὴν δὲ βαρὺ στενάχων προσέφη πόδας ὠκὺς Ἀχιλλεύς·
 "οἶσθα· τί ἦ τοι ταῦτα ἰδυίῃ πάντ' ἀγορεύω; (365)
@@ -52,7 +50,7 @@ bring disaster on Agamemnon and his soldiers.
 κούρην Βρισῆος, τήν μοι δόσαν υἷες Ἀχαιῶν.
 ἀλλὰ σύ, εἰ δύνασαί γε, περίσχεο παιδὸς ἐῆος·
 ἐλθοῦσ' Οὔλυμπόνδε Δία λίσαι, εἴ ποτε δή τι
-ἢ ἕπει ὤνησας κραδίην Διὸς ἠὲ καὶ ἔργῳ. (395)
+ἢ ἔπει ὤνησας κραδίην Διὸς ἠὲ καὶ ἔργῳ. (395)
 πολλάκι γάρ σεο πατρὸς ἐνὶ μεγάροισιν ἄκουσα
 εὐχομένης, ὅτ' ἔφησθα κελαινεφέι Κρονίωνι
 οἴη ἐν ἀθανάτοισιν ἀεικέα λοιγὸν ἀμῦναι,
