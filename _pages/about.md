@@ -3,14 +3,14 @@ permalink: /
 title: "Welcome to my personal website!"
 excerpt: "This is a website for Daniel Libatique, a Ph.D. Candidate in Classical Studies at Boston University."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! I'm Daniel Libatique, a Ph.D. Candidate in Classical Studies at Boston University. This website is a repository for information on my scholarly endeavors.
+Hi! I'm Daniel Libatique. I earned my Ph.D. in Classical Studies at Boston University in 2018. This website is a repository for information on my scholarly endeavors.
 
-I'm currently writing a dissertation entitled _Tereus, Procne, and Philomela: Speech, Silence, and the Voice of Gender_. This dissertation examines the themes of speech, silence, and power in the Tereus, Procne, and Philomela myth in four sources: Sophocles' fragmentary _Tereus_, Aristophanes' _Birds_, Ovid's _Metamorphoses_, and the anonymous _Pervigilium Veneris_. The following three questions are asked of each work: 1. Whom does the author allow to speak (i.e., who speaks directly in the given play or poem), and whom does he silence? 2. How do those attributions or withholdings of speech influence characterization and the hierarchy of power between the characters? 3. How do the forces at work in the author's socio-cultural environment influence the construction of that hierarchy?
+I wrote a dissertation entitled _Tereus, Procne, and Philomela: Speech, Silence, and the Voice of Gender_. This dissertation examines the themes of speech, silence, and power in the Tereus, Procne, and Philomela myth in four sources: Sophocles' fragmentary _Tereus_, Aristophanes' _Birds_, Ovid's _Metamorphoses_, and the anonymous _Pervigilium Veneris_. The following three questions are asked of each work: 1. Whom does the author allow to speak (i.e., who speaks directly in the given play or poem), and whom does he silence? 2. How do those attributions or withholdings of speech influence characterization and the hierarchy of power between the characters? 3. How do the forces at work in the author's socio-cultural environment influence the construction of that hierarchy?
 
 Feel free to use the navigation bar at the top to browse through information on my publications, talks, teaching experience, C.V., and personal blogs.
 
